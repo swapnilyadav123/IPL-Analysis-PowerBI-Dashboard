@@ -118,8 +118,8 @@ Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
 ### Connect with Me
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
+* LinkedIn:[ linkedin.com/in/swapnil-yadav](https://www.linkedin.com/in/swapnil-yadav-5246a7358/)
+* GitHub: [github.com/swapnilyadav123](https://github.com/swapnilyadav123)
 
 ---
 
